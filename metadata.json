@@ -1,0 +1,6 @@
+{
+  "name": "DepEd ARAL Reading Plus Mobile Workbook & Teacher Dashboard",
+  "description": "Mobile interactive alternative for Key Stage 3 Reading Plus Learner's Workbook with live progress sync to teacher dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
